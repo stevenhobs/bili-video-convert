@@ -1,0 +1,13 @@
+{
+    "name": "bili-4-videomerge-tool",
+    "displayName": "哔哩哔哩逍遥橙子版-下载视频转换mp4",
+    "version": "0.0.1",
+    "main": "./src/run.js",
+    "type": "module",
+    "scripts": {
+        "merge": "node ./src/run.js"
+    },
+    "dependencies": {
+        "@types/node": "12"
+    }
+}
