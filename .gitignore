@@ -1,3 +1,7 @@
 /node_modules
-/origin
 yarn.lock
+
+# for test
+/origin
+/out
+/demo
